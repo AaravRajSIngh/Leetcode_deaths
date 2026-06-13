@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3838-weighted-word-mapping](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/3838-weighted-word-mapping) |
 ## String Matching
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3838-weighted-word-mapping](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3838-weighted-word-mapping](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/3838-weighted-word-mapping) |
 ## Segment Tree
 |  |
 | ------- |
