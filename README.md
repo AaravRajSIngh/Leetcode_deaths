@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/3838-weighted-word-mapping) |
 ## String Matching
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3612-process-string-with-special-operations-i](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/3838-weighted-word-mapping) |
 ## Segment Tree
 |  |
