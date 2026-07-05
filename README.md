@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0075-sort-colors) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0075-sort-colors) |
 | [1301-number-of-paths-with-max-score](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/1833-maximum-ice-cream-bars) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0075-sort-colors) |
 | [1833-maximum-ice-cream-bars](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
