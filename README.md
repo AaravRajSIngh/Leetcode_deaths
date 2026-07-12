@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0288-unique-word-abbreviation](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0288-unique-word-abbreviation) |
 | [1189-maximum-number-of-balloons](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0075-sort-colors) |
+| [0288-unique-word-abbreviation](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0288-unique-word-abbreviation) |
 | [1288-remove-covered-intervals](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/1732-find-the-highest-altitude) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0288-unique-word-abbreviation](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0288-unique-word-abbreviation) |
 | [1189-maximum-number-of-balloons](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -246,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/3620-network-recovery-pathways) |
+## Design
+|  |
+| ------- |
+| [0288-unique-word-abbreviation](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0288-unique-word-abbreviation) |
 <!---LeetCode Topics End-->
