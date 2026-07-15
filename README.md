@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0208-implement-trie-prefix-tree) |
 | [0288-unique-word-abbreviation](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0288-unique-word-abbreviation) |
 | [1189-maximum-number-of-balloons](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0208-implement-trie-prefix-tree) |
 | [0288-unique-word-abbreviation](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0288-unique-word-abbreviation) |
 | [1189-maximum-number-of-balloons](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/1331-rank-transform-of-an-array) |
@@ -260,10 +262,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0208-implement-trie-prefix-tree) |
 | [0288-unique-word-abbreviation](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0288-unique-word-abbreviation) |
 ## Number Theory
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
