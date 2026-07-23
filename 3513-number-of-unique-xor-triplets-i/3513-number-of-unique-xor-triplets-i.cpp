@@ -3,9 +3,13 @@ public:
     int uniqueXorTriplets(vector<int>& nums) {
         int n = nums.size();
 
-        if (n <= 2) return n;
+        if (n <= 2)
+            return n;
 
-        int bits = 31 - __builtin_clz(n); // floor(log2(n))
-        return 1 << (bits + 1);
+        int ans = 1;
+        while (ans <= n)
+            ans <<= 1;
+
+        return ans;
     }
 };
