@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0075-sort-colors) |
 | [0288-unique-word-abbreviation](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0288-unique-word-abbreviation) |
+| [0486-predict-the-winner](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/1288-remove-covered-intervals) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/1840-maximum-building-height) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -344,4 +347,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
