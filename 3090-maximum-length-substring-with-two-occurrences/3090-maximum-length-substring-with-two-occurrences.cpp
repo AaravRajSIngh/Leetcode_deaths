@@ -1,18 +1,18 @@
 class Solution {
 public:
     int maximumLengthSubstring(string s) {
-        int n = s.size();
+        array<int, 26> count{};
+        int left = 0;
         int res = 0;
-        for (int left = 0; left < n; ++left) {
-            array<int, 26> count{};
-            for (int right = left; right < n; ++right) {
-                const int index = s[right] - 'a';
-                ++count[index];
-                if (count[index] > 2) {
-                    break;
-                }
-                res = max(res, right - left + 1);
+        for (int right = 0; right < s.length(); ++right) {
+            int ch = s[right] - 'a';
+            ++count[ch];
+            while (count[ch] > 2) {
+                const int ch2 = s[left] - 'a';
+                --count[ch2];
+                ++left;
             }
+            res = max(res, right - left + 1);
         }
         return res;
     }
