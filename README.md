@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0115-distinct-subsequences](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0208-implement-trie-prefix-tree) |
 | [0288-unique-word-abbreviation](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0288-unique-word-abbreviation) |
 | [0316-remove-duplicate-letters](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0316-remove-duplicate-letters) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AaravRajSIngh/Leetcode_deaths/tree/master/1140-stone-game-ii) |
